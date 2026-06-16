@@ -67,3 +67,9 @@ python app.py
 - `QR_GEN.py`: Original CLI-based implementation.
 - `dev_rules.md`: Developer guidelines for styling and architecture.
 - `code_wiki.md`: Code wiki documenting file structure, functions, classes, and libraries.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.

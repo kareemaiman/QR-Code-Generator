@@ -25,7 +25,9 @@ qr code generator/
 ├── QR_GEN.py        # Original CLI-based generator script
 ├── app.py           # GUI application entry point
 ├── dev_rules.md     # Development guidelines and styling rules
-└── code_wiki.md     # This wiki document
+├── code_wiki.md     # This wiki document
+├── README.md        # Project overview and usage guidelines
+└── LICENSE          # MIT License agreement
 ```
 
 ### Classes and Functions in `app.py`
